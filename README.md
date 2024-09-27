@@ -1,6 +1,6 @@
 # Optimal Control of Virtual Power Plant (VPP)
 
-This repository provides MATLAB scripts for the optimal control of a Virtual Power Plant (VPP) with the use of several optimization techniques including Particle Swarm Optimization (PSO), Genetic Algorithm (GA), Tasmanian Devil Optimization (TDO). This system models the power control in distributed energy resources of a VPP, such as wind turbine generators (WTG), electric vehicles (EV), and storage systems (STS).
+This repository provides MATLAB scripts for the optimal control of a Virtual Power Plant (VPP) with the use of several optimization techniques including Steepest Descend (SD), Particle Swarm Optimization (PSO), Genetic Algorithm (GA), Tasmanian Devil Optimization (TDO). This system models the power control in distributed energy resources of a VPP, such as wind turbine generators (WTG), electric vehicles (EV), and storage systems (STS).
 
 ## Overview of the Project
 The project investigates the control of the inputs to WTG, EV, and STS for a VPP in order to minimize the cost function of the power generation. The cost function is the difference between the generated power and load demand. Optimization methods will be used to find the optimal inputs that minimize the cost.
