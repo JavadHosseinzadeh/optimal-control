@@ -23,11 +23,4 @@ The project investigates the control of the inputs to WTG, EV, and STS for a VPP
   - **Files**: `Try.m`, `SD.m`, `plotting_res.m`
   - Results include optimal inputs for WTG, EV, and STS over time, as well as power generation and load comparison.
 
-## Running the Code
-Below is the implementation of the correct script for the optimization approach. Example: `Three_optimizer.m` for PSO and `TDO.m` for Tasmanian Devil Optimization.
-Results and plots with system's states, cost function, input bounds are created for analysis.
-
-## Dependencies
- MATLAB with Optimization Toolbox and Simulink.
-
 This project illustrates how optimization algorithms can be used to control power generation and demand in a Virtual Power Plant.
